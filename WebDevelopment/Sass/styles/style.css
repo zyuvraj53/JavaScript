@@ -1,0 +1,52 @@
+header, .expClass {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  background-color: aquamarine;
+  color: gray;
+}
+
+header button, .expClass button {
+  background: #9900ff;
+}
+
+header button:hover, .expClass button:hover {
+  background: red;
+}
+
+p {
+  color: pink;
+}
+
+.contact {
+  background: #9900ff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.expClass {
+  background-color: lightcoral;
+  width: 80%;
+}
+/*# sourceMappingURL=style.css.map */

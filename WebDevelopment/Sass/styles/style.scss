@@ -1,0 +1,21 @@
+$primaryButton: rgb(153, 0, 255);
+$secondaryButton: red;
+$paragraphColour: pink;
+$textColour: rgb(48, 41, 41);
+
+@import './header';
+
+p {
+  color: $paragraphColour;
+}
+
+.contact  {
+  background: $primaryButton;
+  @include flexCenter(row);
+}
+
+.expClass{
+  @extend header;
+  background-color: lightcoral;
+  width: 100% - 20%;
+}
