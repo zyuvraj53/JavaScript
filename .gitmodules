@@ -4,3 +4,12 @@
 [submodule "JSON/corpora"]
 	path = JSON/corpora
 	url = https://github.com/dariusk/corpora.git
+[submodule "React.js/-Force"]
+	path = React.js/-Force
+	url = https://github.com/iamshaunjp/Complete-React-Tutorial.git
+[submodule "React.js/Comple-React-Tutorial"]
+	path = React.js/Comple-React-Tutorial
+	url = https://github.com/iamshaunjp/Complete-React-Tutorial.git
+[submodule "TypeScript/The_Net_Ninja/typescript-tutorial-shaun"]
+	path = TypeScript/The_Net_Ninja/typescript-tutorial-shaun
+	url = https://github.com/iamshaunjp/typescript-tutorial.git
