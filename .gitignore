@@ -1,0 +1,7 @@
+**/node_modules
+**/libraries
+**/desktop.ini
+/workspace.code-workspace
+**/.vscode
+/Matter.js/Github-Examples
+/VanillaJS/Laxxx.js
