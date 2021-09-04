@@ -1,0 +1,1900 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "marMut07gN4FgiDudN0KsN84cHw",
+  "nextPageToken": "QURTSl9pMlRTUW9udW5HQzRLRHJUQUVKS3VueUFDYk1fbHlpUHVJOGNuT0dXYTN4ZVNxSE1YeTdvN1UzTmdDVUJVbnBzUUJsSlR4dTd6ZzJROGc3UkplTWVpdlRPTldIR1p5bXYwd0tiQWJFd1N6Z1E4WjBFaG5zY2NSWkhNclA4YW9VdzNkNVlicmRDbFBDaW1SLWFqZEZkMXZJTjg3LXNuNlZ4QjNEZDZOMXBrN0gzRmpDanc1TFotM2o0NVBhZDhGbzhubWV1UzJSVV91RkZpNENRaFFabHpfdTZTdVRJMDl0Nm9EeTdiT1JFTjZhV0Fhd2NvSlFmNzJqYW1WNGhiNl90RlU2UEdScWwyR1ZsVjEzRWlSM1loemRLR1hYM3lMQkZCQlgxc2t3NWx3MEZfVnFZeUlwMkVCNnVZQQ==",
+  "pageInfo": {
+    "totalResults": 20,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "NqjnCGigLLL2rCsPhAzlCSOqKPI",
+      "id": "Ugx6yE54hsS1F5dHp9R4AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Wyu68k76GzArRuW8Ic0a0xH8eJI",
+          "id": "Ugx6yE54hsS1F5dHp9R4AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "I realize a lot of you are missing some important context, I made this video talking about why a lot of these dishes are, the way they are: \u003ca href=\"https://www.youtube.com/watch?v=Dbi3EG4r8kM&amp;t=\"\u003ehttps://www.youtube.com/watch?v=Dbi3EG4r8kM&amp;t=\u003c/a\u003e",
+            "textOriginal": "I realize a lot of you are missing some important context, I made this video talking about why a lot of these dishes are, the way they are: https://www.youtube.com/watch?v=Dbi3EG4r8kM&t=",
+            "authorDisplayName": "Beryl Shereshewsky",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSEgt5lNpJPkQbllf731PuAB0Oa1q_FJViNFa6GFw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCbPHHOiOY_tA9BSytK0jDYw",
+            "authorChannelId": {
+              "value": "UCbPHHOiOY_tA9BSytK0jDYw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 321,
+            "publishedAt": "2021-06-03T13:39:57Z",
+            "updatedAt": "2021-06-03T14:25:20Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 32,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "saKjqaPpvRm15g0ZEuqKAq7cbAQ",
+            "id": "Ugx6yE54hsS1F5dHp9R4AaABAg.9O7kN77HaB99PC7Kzqn8Mo",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@Trecia North also yes the site seems to be getting a renovation! 👍",
+              "textOriginal": "@Trecia North also yes the site seems to be getting a renovation! 👍",
+              "parentId": "Ugx6yE54hsS1F5dHp9R4AaABAg",
+              "authorDisplayName": "Beryl Shereshewsky",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSEgt5lNpJPkQbllf731PuAB0Oa1q_FJViNFa6GFw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCbPHHOiOY_tA9BSytK0jDYw",
+              "authorChannelId": {
+                "value": "UCbPHHOiOY_tA9BSytK0jDYw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-06-30T02:57:43Z",
+              "updatedAt": "2021-06-30T02:57:43Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "IlqBrxpIb6NjsxuVQolFtbEP5kk",
+            "id": "Ugx6yE54hsS1F5dHp9R4AaABAg.9O7kN77HaB99PC7D3PQJQo",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@Trecia North ohh the snake ones are from \u003ca href=\"https://instagram.com/namakesshop?utm_medium=copy_link\"\u003ehttps://instagram.com/namakesshop?utm_medium=copy_link\u003c/a\u003e",
+              "textOriginal": "@Trecia North ohh the snake ones are from https://instagram.com/namakesshop?utm_medium=copy_link",
+              "parentId": "Ugx6yE54hsS1F5dHp9R4AaABAg",
+              "authorDisplayName": "Beryl Shereshewsky",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSEgt5lNpJPkQbllf731PuAB0Oa1q_FJViNFa6GFw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCbPHHOiOY_tA9BSytK0jDYw",
+              "authorChannelId": {
+                "value": "UCbPHHOiOY_tA9BSytK0jDYw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2021-06-30T02:56:38Z",
+              "updatedAt": "2021-06-30T02:56:38Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "ZXTrtySmCkLh_lYqOOap92kAT1I",
+            "id": "Ugx6yE54hsS1F5dHp9R4AaABAg.9O7kN77HaB99PC7-tlDXhs",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@beryl I adore those snake earrings but ibentoy seems to have disappeared. Do you know if it&#39;ll be back?",
+              "textOriginal": "@beryl I adore those snake earrings but ibentoy seems to have disappeared. Do you know if it'll be back?",
+              "parentId": "Ugx6yE54hsS1F5dHp9R4AaABAg",
+              "authorDisplayName": "Trecia North",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQaGBIsYTMXQ7q_zNQkcIODKXs7qIU8S1Rbd2cCqA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCNbEbQXyX5CGiitc80MRKgg",
+              "authorChannelId": {
+                "value": "UCNbEbQXyX5CGiitc80MRKgg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-06-30T02:54:51Z",
+              "updatedAt": "2021-06-30T02:54:51Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "hSg5LK68KoUqFghHHoVyo2BqBSE",
+            "id": "Ugx6yE54hsS1F5dHp9R4AaABAg.9O7kN77HaB99OJg47X8Cnd",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@Geron Lee , what do you mean? You&#39;ve got me curious.",
+              "textOriginal": "@Geron Lee , what do you mean? You've got me curious.",
+              "parentId": "Ugx6yE54hsS1F5dHp9R4AaABAg",
+              "authorDisplayName": "Louise Johnson",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRgwnPNkwjBa0hAsFh_QFfcpJVwtMhEF7eVUw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCLY9Fq9VUwlWoMnM3ovcUOA",
+              "authorChannelId": {
+                "value": "UCLY9Fq9VUwlWoMnM3ovcUOA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-06-08T04:53:17Z",
+              "updatedAt": "2021-06-08T04:53:17Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "9AlTvZjjn9fqdTfAfE_u5FaczqU",
+            "id": "Ugx6yE54hsS1F5dHp9R4AaABAg.9O7kN77HaB99OJfH8qYNt9",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "Beryl: I absolutely love that changing picture frame that you have in the background. How do I get one myself?",
+              "textOriginal": "Beryl: I absolutely love that changing picture frame that you have in the background. How do I get one myself?",
+              "parentId": "Ugx6yE54hsS1F5dHp9R4AaABAg",
+              "authorDisplayName": "Geron Lee",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTrk4jiYC0aLPwUHzn4EWM02W85or9eaqkcGQ=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCPORurFFEv_-5aqItKJmr6Q",
+              "authorChannelId": {
+                "value": "UCPORurFFEv_-5aqItKJmr6Q"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-06-08T04:46:19Z",
+              "updatedAt": "2021-06-08T04:46:19Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "WaSSVr-0NBaO85zsRKQiC2ShRfA",
+      "id": "UgxexuCYbLpiXefD-Zd4AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_IxLrzgUF5TTPxcxPZti3ig-uc4",
+          "id": "UgxexuCYbLpiXefD-Zd4AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "Tater tot casserole is like shepherd&#39;s pie through a game of telephone.",
+            "textOriginal": "Tater tot casserole is like shepherd's pie through a game of telephone.",
+            "authorDisplayName": "jillmiranda07",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTlLS98WjwC1CL-p-Js5545gbMcfYsNnszJTS51=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCs5JKRQ_-jcDHeJnFMGo_ww",
+            "authorChannelId": {
+              "value": "UCs5JKRQ_-jcDHeJnFMGo_ww"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1523,
+            "publishedAt": "2021-06-03T12:50:01Z",
+            "updatedAt": "2021-06-03T12:50:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 33,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "nStQdAhiX3-BwSHn1HxH-KCYGYI",
+            "id": "UgxexuCYbLpiXefD-Zd4AaABAg.9O7eeQzM3Pk9Rb-qi8KJ-X",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "Oh god, I’m Minnesotan and hate tater tot hot dish…",
+              "textOriginal": "Oh god, I’m Minnesotan and hate tater tot hot dish…",
+              "parentId": "UgxexuCYbLpiXefD-Zd4AaABAg",
+              "authorDisplayName": "Lucky 4leafedclover",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTCl0xefBGZ57bGd1kJAbmDOL9pas4Fa8gOrw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCppSobVZxWhU0hS1KhqXRIw",
+              "authorChannelId": {
+                "value": "UCppSobVZxWhU0hS1KhqXRIw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-08-28T21:15:20Z",
+              "updatedAt": "2021-08-28T21:15:20Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "RZ4ggXUwVtlARtmgEZkPBWQenK0",
+            "id": "UgxexuCYbLpiXefD-Zd4AaABAg.9O7eeQzM3Pk9RXoOa1SkuQ",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "Yes!!!",
+              "textOriginal": "Yes!!!",
+              "parentId": "UgxexuCYbLpiXefD-Zd4AaABAg",
+              "authorDisplayName": "Tracy Starcher",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGrungJqeUGVb_O6UFZ99PiSvFhP2SA1O28VXXCQ=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCwLOJ5HHvFBYTgQ3-Yq2y-Q",
+              "authorChannelId": {
+                "value": "UCwLOJ5HHvFBYTgQ3-Yq2y-Q"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-08-27T06:09:32Z",
+              "updatedAt": "2021-08-27T06:09:32Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "MoGdEckvY5OAY2FpbQt-oVTmPr0",
+            "id": "UgxexuCYbLpiXefD-Zd4AaABAg.9O7eeQzM3Pk9QhskJuj1QM",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "We put the meat sauce on top of mashed potatoes, still tasty.",
+              "textOriginal": "We put the meat sauce on top of mashed potatoes, still tasty.",
+              "parentId": "UgxexuCYbLpiXefD-Zd4AaABAg",
+              "authorDisplayName": "rabidsamfan",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ2ZUN3p5606O_RrTlzuS-u0ZfM1yHm6oIHGA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCgXPxCERgL3Qr-aCn5Gq4Yw",
+              "authorChannelId": {
+                "value": "UCgXPxCERgL3Qr-aCn5Gq4Yw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-08-06T16:47:50Z",
+              "updatedAt": "2021-08-06T16:47:50Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "1hpQ6FvZcI06-rc56plwV14ukDg",
+            "id": "UgxexuCYbLpiXefD-Zd4AaABAg.9O7eeQzM3Pk9PrdxslDhFf",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "This comment wins",
+              "textOriginal": "This comment wins",
+              "parentId": "UgxexuCYbLpiXefD-Zd4AaABAg",
+              "authorDisplayName": "Gracie Ayers",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR46TIslw0K0A9QcWkvzX438uJ8MfFFWtT1TwRRpw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCjrSJ7anuzZ4B7g7DAHY_kA",
+              "authorChannelId": {
+                "value": "UCjrSJ7anuzZ4B7g7DAHY_kA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-07-16T15:19:38Z",
+              "updatedAt": "2021-07-16T15:19:38Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "MbPeo4hkx07k3eYwAz24TVqJZvA",
+            "id": "UgxexuCYbLpiXefD-Zd4AaABAg.9O7eeQzM3Pk9PjHh0OezxI",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@andrewthezeppo The versions I have are ground beef, mushroom soup, green beans, tater tots, topped with cheese, and sometimes French&#39;s fried onions. (I&#39;m in MN too)",
+              "textOriginal": "@andrewthezeppo The versions I have are ground beef, mushroom soup, green beans, tater tots, topped with cheese, and sometimes French's fried onions. (I'm in MN too)",
+              "parentId": "UgxexuCYbLpiXefD-Zd4AaABAg",
+              "authorDisplayName": "Haiku",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/z2TOJSAEgRuib5683scPbhFNCuk_aFAGjb2hWWjQmPBT_cM2-EwkmjgPleVN4E4ldeWzzyfa=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCIQZypMBauwWpsaXi_vgoxA",
+              "authorChannelId": {
+                "value": "UCIQZypMBauwWpsaXi_vgoxA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2021-07-13T09:22:26Z",
+              "updatedAt": "2021-07-13T09:22:26Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "LvnGyStpvsHzUzajh9YZmqtznjE",
+      "id": "UgzAfJn2rmyhkWCqvid4AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "rdXeVSgb5iAPAtpYrO66cQIkLuA",
+          "id": "UgzAfJn2rmyhkWCqvid4AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "Hi! Would you do a video on Native American food dishes sometime in the future. Would be so fascinating! I keep hearing about Indian bread but haven&#39;t heard about other American Indian dishes. \u003cbr\u003eWonderful videos! Thank you so much!",
+            "textOriginal": "Hi! Would you do a video on Native American food dishes sometime in the future. Would be so fascinating! I keep hearing about Indian bread but haven't heard about other American Indian dishes. \nWonderful videos! Thank you so much!",
+            "authorDisplayName": "Anneline Moore",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSqSpREcTCD_FMM3p1zpvX2RcsEnQpwPUZbEc_awA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCsGQ12NWIMiR1ryDnvM8pbg",
+            "authorChannelId": {
+              "value": "UCsGQ12NWIMiR1ryDnvM8pbg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 283,
+            "publishedAt": "2021-06-06T13:24:45Z",
+            "updatedAt": "2021-06-06T13:24:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 11,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "325Lg1ellXiwhcmG2tdjoxqLN8E",
+            "id": "UgzAfJn2rmyhkWCqvid4AaABAg.9OFS0TkBqRB9RU162X4Ssn",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@J Girl True, my grandmother is Pueblo and refers to herself as Indian. I just prefer to use Native American, because it&#39;s less confusing that way",
+              "textOriginal": "@J Girl True, my grandmother is Pueblo and refers to herself as Indian. I just prefer to use Native American, because it's less confusing that way",
+              "parentId": "UgzAfJn2rmyhkWCqvid4AaABAg",
+              "authorDisplayName": "Chiller 88884",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRo-uO4n_p6Q5JxqCkSWID07XqVTv3mV8atRj67cw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCaUjybA5ZxFt-zGPDF6tNzQ",
+              "authorChannelId": {
+                "value": "UCaUjybA5ZxFt-zGPDF6tNzQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2021-08-25T18:52:22Z",
+              "updatedAt": "2021-08-25T18:52:22Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "sUfyVnwETFh6AG17KwM9mXWTZy8",
+            "id": "UgzAfJn2rmyhkWCqvid4AaABAg.9OFS0TkBqRB9Qj7wQs5_rk",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "Do you mean Fry bread?\u003cbr\u003eIndian in Eastern hemisphere eat other types of homemade breads.",
+              "textOriginal": "Do you mean Fry bread?\nIndian in Eastern hemisphere eat other types of homemade breads.",
+              "parentId": "UgzAfJn2rmyhkWCqvid4AaABAg",
+              "authorDisplayName": "SimonaLyne Enderz",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSN7LepVgg5qbwPMee7s7T_19j-DNg2vQQfLVXt2Q=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCZLKEgsYdtBHf9mlU9dW-Vg",
+              "authorChannelId": {
+                "value": "UCZLKEgsYdtBHf9mlU9dW-Vg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-08-07T04:28:32Z",
+              "updatedAt": "2021-08-07T04:28:32Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "EMcHxym3v-KKsjyqCYOnR8wumOc",
+            "id": "UgzAfJn2rmyhkWCqvid4AaABAg.9OFS0TkBqRB9QW5c8gdxOR",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@jenna I had heard of fry bread before and was confused by what this person as referring to.",
+              "textOriginal": "@jenna I had heard of fry bread before and was confused by what this person as referring to.",
+              "parentId": "UgzAfJn2rmyhkWCqvid4AaABAg",
+              "authorDisplayName": "Cinders Embers",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSO9etSE4FyrDxhvF5Yoe5O-kOmxULd4BO83Da7-A=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCeUO5H2f34Thntyh2l2-N8w",
+              "authorChannelId": {
+                "value": "UCeUO5H2f34Thntyh2l2-N8w"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-08-01T17:38:56Z",
+              "updatedAt": "2021-08-01T17:38:56Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "Hs_64syVeLLjnP7IzffIAqkKWmo",
+            "id": "UgzAfJn2rmyhkWCqvid4AaABAg.9OFS0TkBqRB9QPgVhCMcan",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "look into recipes for kanuchi and bean bread! cherokee staples",
+              "textOriginal": "look into recipes for kanuchi and bean bread! cherokee staples",
+              "parentId": "UgzAfJn2rmyhkWCqvid4AaABAg",
+              "authorDisplayName": "honeydewsoo",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTmL33maOsVOg9NpaFyqf4_GlkSaWAR2iNLBPFu4Q=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCi80bp5XThq0kjC4Piy-8dA",
+              "authorChannelId": {
+                "value": "UCi80bp5XThq0kjC4Piy-8dA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2021-07-30T05:55:17Z",
+              "updatedAt": "2021-07-30T05:55:17Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "5zZOfhnMsJhgba1v_YY7dzqk1Cc",
+            "id": "UgzAfJn2rmyhkWCqvid4AaABAg.9OFS0TkBqRB9QH2RSS5f7x",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "Yes!",
+              "textOriginal": "Yes!",
+              "parentId": "UgzAfJn2rmyhkWCqvid4AaABAg",
+              "authorDisplayName": "Deidre Cruickshank",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSYvWfhbx5SLHx7p9Q1imKWokDA4FlnWSN1ptmU=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCJXjWbUTSU73lGCXZwiGUuQ",
+              "authorChannelId": {
+                "value": "UCJXjWbUTSU73lGCXZwiGUuQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-07-26T21:22:31Z",
+              "updatedAt": "2021-07-26T21:22:31Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "WqkGlfvN5bJB_LhNasytD1PgeQc",
+      "id": "UgxwiRnRspc_hfpqjlB4AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "FNt65IqpbiIMUwqwyMnf6Uy6Z34",
+          "id": "UgxwiRnRspc_hfpqjlB4AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "&quot;Why am I gaining wight when all I&#39;m eating is salads&quot;\u003cbr\u003e\u003cbr\u003eThe salads:",
+            "textOriginal": "\"Why am I gaining wight when all I'm eating is salads\"\n\nThe salads:",
+            "authorDisplayName": "L.C.",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSuiKlSIwjZ2DoeX1efeNdr1FC54brv0LCBNuVhYw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCVTvI6OvD3sDCteV218sEqA",
+            "authorChannelId": {
+              "value": "UCVTvI6OvD3sDCteV218sEqA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 404,
+            "publishedAt": "2021-06-05T15:44:00Z",
+            "updatedAt": "2021-06-05T15:44:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "d57_OZgijl0gaxe8AIUFM_EFmyc",
+            "id": "UgxwiRnRspc_hfpqjlB4AaABAg.9OD79Xz0DLK9RcIQRxX3zz",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "I kinda confused i thought salad meant to be healty🤷\u200d♂️",
+              "textOriginal": "I kinda confused i thought salad meant to be healty🤷\u200d♂️",
+              "parentId": "UgxwiRnRspc_hfpqjlB4AaABAg",
+              "authorDisplayName": "Agung Syam",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQIfjnVLTggnDcJ-bhMCdgL1vmPffkVJp6dxlDc=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCZPRezVeKbVd5Q1lCzSpwAw",
+              "authorChannelId": {
+                "value": "UCZPRezVeKbVd5Q1lCzSpwAw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2021-08-29T09:16:52Z",
+              "updatedAt": "2021-08-29T09:16:52Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "AYDvbUgM85Pc3pos3ScqTeWGFko",
+            "id": "UgxwiRnRspc_hfpqjlB4AaABAg.9OD79Xz0DLK9QaMWXUA0Qr",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "😂 LOL",
+              "textOriginal": "😂 LOL",
+              "parentId": "UgxwiRnRspc_hfpqjlB4AaABAg",
+              "authorDisplayName": "Americana",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTwrm3X-6uwlpgnMefQGGcmORj3taKeuc_-yv_FWg=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCEDcuwqcFjV3VGdUiz3Kgrg",
+              "authorChannelId": {
+                "value": "UCEDcuwqcFjV3VGdUiz3Kgrg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2021-08-03T18:42:47Z",
+              "updatedAt": "2021-08-03T18:42:47Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "mlyh_skBWnwC_FTJDlOLlSaeqsc",
+      "id": "Ugxz4oaBWot6Kgdqk714AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "DXQKa-QZ3KH5N0P43S1AJea6GXY",
+          "id": "Ugxz4oaBWot6Kgdqk714AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "I love Armadillo eggs! The kind you made though can get a little overpowering, all the ingredients were right but the better ones in my opinion use smaller peppers that are more bite sized (maybe 2 or 3 bites). The big ones are common, but the smaller ones are far more balanced. In Texas we usually don&#39;t fry our jalepeno poppers either, we just wrap them in bacon and smoke/grill them, so the Armadillo egg is just kind of an evolution of our poppers.\u003cbr\u003e\u003cbr\u003eYou should do more regional American episodes, there are so many regional foods in the states you really almost have to treat it like Europe in some ways. We&#39;ve got things like boudin in Lousiana, Chow Chow (a common southern pickle relish), Stuffies from Rhode Island, Akutaq in Alaska, Lutefisk from Minnesota/Wiscosin, Chitlins, the Onion Smash burger from Oklahoma... the list goes on and on and on. You could do a whole series on them if you really wanted to.",
+            "textOriginal": "I love Armadillo eggs! The kind you made though can get a little overpowering, all the ingredients were right but the better ones in my opinion use smaller peppers that are more bite sized (maybe 2 or 3 bites). The big ones are common, but the smaller ones are far more balanced. In Texas we usually don't fry our jalepeno poppers either, we just wrap them in bacon and smoke/grill them, so the Armadillo egg is just kind of an evolution of our poppers.\n\nYou should do more regional American episodes, there are so many regional foods in the states you really almost have to treat it like Europe in some ways. We've got things like boudin in Lousiana, Chow Chow (a common southern pickle relish), Stuffies from Rhode Island, Akutaq in Alaska, Lutefisk from Minnesota/Wiscosin, Chitlins, the Onion Smash burger from Oklahoma... the list goes on and on and on. You could do a whole series on them if you really wanted to.",
+            "authorDisplayName": "PhantomSavage",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRgxMxV3tuB5atN5IT9FwhUw3EjSSk7SvuwgdsZ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCaC1b7X2r8OqxlGhXdDwB_w",
+            "authorChannelId": {
+              "value": "UCaC1b7X2r8OqxlGhXdDwB_w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 95,
+            "publishedAt": "2021-06-19T17:44:33Z",
+            "updatedAt": "2021-06-19T17:44:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "jVxQWtzfiv0ynuB8KX3Dkg_ZA_o",
+            "id": "Ugxz4oaBWot6Kgdqk714AaABAg.9OmO4ibb_Ke9ROPm7960xh",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "You blew my mind for a minute! I was like,  &quot;armadillos lay eggs!?!?&quot; Lol",
+              "textOriginal": "You blew my mind for a minute! I was like,  \"armadillos lay eggs!?!?\" Lol",
+              "parentId": "Ugxz4oaBWot6Kgdqk714AaABAg",
+              "authorDisplayName": "AviatorMaus",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSGoJ4dr3v_VqvOTveIl3Sjqs2tCo8WGNU-p7A9=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCKcdSzp5vrgnh4nu7bUHowg",
+              "authorChannelId": {
+                "value": "UCKcdSzp5vrgnh4nu7bUHowg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2021-08-23T14:32:31Z",
+              "updatedAt": "2021-08-23T14:32:31Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "J44xr19ZbszlZ4RueYWGJHZLpFs",
+      "id": "Ugx-fHA2iHQMH6mvCJ54AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "okgzj1tQOlKtuXQDLhPDNNDLTdc",
+          "id": "Ugx-fHA2iHQMH6mvCJ54AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "Frito Pie. It’s about as much of a “pie” as those “salads” were salads.",
+            "textOriginal": "Frito Pie. It’s about as much of a “pie” as those “salads” were salads.",
+            "authorDisplayName": "Suzanne Cooper",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7RzXvf2yCtPXaSIx26YigcHKPMKmxe129dA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5dSd27beml4o0Gw871DjDw",
+            "authorChannelId": {
+              "value": "UC5dSd27beml4o0Gw871DjDw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 136,
+            "publishedAt": "2021-06-04T08:20:42Z",
+            "updatedAt": "2021-06-04T08:20:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 6,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "FeeCVdGG6XpNqMaSme127u8oaF8",
+            "id": "Ugx-fHA2iHQMH6mvCJ54AaABAg.9O9kcjJ7fed9P-veWWzlkt",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@A H it’s really not. Sorry to disappoint you.",
+              "textOriginal": "@A H it’s really not. Sorry to disappoint you.",
+              "parentId": "Ugx-fHA2iHQMH6mvCJ54AaABAg",
+              "authorDisplayName": "Suzanne Cooper",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7RzXvf2yCtPXaSIx26YigcHKPMKmxe129dA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC5dSd27beml4o0Gw871DjDw",
+              "authorChannelId": {
+                "value": "UC5dSd27beml4o0Gw871DjDw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2021-06-25T09:16:03Z",
+              "updatedAt": "2021-06-25T09:16:03Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "ftDshUqTRvF40f5TOoML5CNaSf0",
+            "id": "Ugx-fHA2iHQMH6mvCJ54AaABAg.9O9kcjJ7fed9P-jbocMajq",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "Sounds interesting",
+              "textOriginal": "Sounds interesting",
+              "parentId": "Ugx-fHA2iHQMH6mvCJ54AaABAg",
+              "authorDisplayName": "A H",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRNbpRK5wR8Z8-G6q9WL5dtfsMvp80IxIt7qbVyWw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCsyj_tYrZverUMPj-3bXCxQ",
+              "authorChannelId": {
+                "value": "UCsyj_tYrZverUMPj-3bXCxQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-06-25T07:30:49Z",
+              "updatedAt": "2021-06-25T07:30:49Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "zIaftCV2ut3Dpa_9OIguv4Xq_NY",
+            "id": "Ugx-fHA2iHQMH6mvCJ54AaABAg.9O9kcjJ7fed9OYh80E_fzd",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "Frito pie is the best!!!!!",
+              "textOriginal": "Frito pie is the best!!!!!",
+              "parentId": "Ugx-fHA2iHQMH6mvCJ54AaABAg",
+              "authorDisplayName": "mnmb3640",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRYPLg6jWNcyay97Gu100Uk7F1JgxMPuAySGYS0=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCXVaf2IDk7bn6u83c4vT2-Q",
+              "authorChannelId": {
+                "value": "UCXVaf2IDk7bn6u83c4vT2-Q"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-06-14T00:51:09Z",
+              "updatedAt": "2021-06-14T00:51:09Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "X_l9HU1_0h2lskHYYbJZnBcnYP0",
+            "id": "Ugx-fHA2iHQMH6mvCJ54AaABAg.9O9kcjJ7fed9OLLOX5goKR",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@Iceechibi so it’s kind of nacho-esque then? That sounds like something I’d make at home. I was expecting something much worse!",
+              "textOriginal": "@Iceechibi so it’s kind of nacho-esque then? That sounds like something I’d make at home. I was expecting something much worse!",
+              "parentId": "Ugx-fHA2iHQMH6mvCJ54AaABAg",
+              "authorDisplayName": "Gillian Harrison",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTinmff2CuAyXVnkx7H5hoAozmJjye4cn7A6vSk5Q=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCyFDbYnvcJFwSbbwDLjfjjg",
+              "authorChannelId": {
+                "value": "UCyFDbYnvcJFwSbbwDLjfjjg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2021-06-08T20:22:18Z",
+              "updatedAt": "2021-06-08T20:22:18Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "JODY9-IiHeTC7a6UbAKW9r4drT0",
+            "id": "Ugx-fHA2iHQMH6mvCJ54AaABAg.9O9kcjJ7fed9OLHsas4z4L",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@Gillian Harrison it’s chili poured over frito lay corn chips, topped with cheese. I make it when I have leftover chili as I am a Texan and it’s a common here. Food trucks and ice cream trucks will sell it here where they cut the side of a small frito lay chip bag and server it with a spoon right in the bag. When I make it at home, we use bowls as I’ll buy the big bag of frito lay corn chips.",
+              "textOriginal": "@Gillian Harrison it’s chili poured over frito lay corn chips, topped with cheese. I make it when I have leftover chili as I am a Texan and it’s a common here. Food trucks and ice cream trucks will sell it here where they cut the side of a small frito lay chip bag and server it with a spoon right in the bag. When I make it at home, we use bowls as I’ll buy the big bag of frito lay corn chips.",
+              "parentId": "Ugx-fHA2iHQMH6mvCJ54AaABAg",
+              "authorDisplayName": "Iceechibi",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSJqKCQSFZY-wI2u-hbEohE5UsWqlqwdiwglnot=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCavly-rwA4KVupu17G5dqPA",
+              "authorChannelId": {
+                "value": "UCavly-rwA4KVupu17G5dqPA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 4,
+              "publishedAt": "2021-06-08T19:51:36Z",
+              "updatedAt": "2021-06-08T19:51:36Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "tzulxlCY6FgSg5plalOnWXBBceI",
+      "id": "UgxxBi7TodwxdYEe7Qt4AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "PjEwQvbHQinNGhuTIngsYm4TLzM",
+          "id": "UgxxBi7TodwxdYEe7Qt4AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "One thing I realize from this video is many Americans don&#39;t have access to fresh foods. A lot of these recipes were &quot;use what you got in the pantry&quot; foods. Interesting. Southeast cuisine is so much different but I think it&#39;s because of the abundance of produce that grows in that region.",
+            "textOriginal": "One thing I realize from this video is many Americans don't have access to fresh foods. A lot of these recipes were \"use what you got in the pantry\" foods. Interesting. Southeast cuisine is so much different but I think it's because of the abundance of produce that grows in that region.",
+            "authorDisplayName": "Latoya Sinclair",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSnkgvihln7F8tydceqOD4AlvbMVT60UVbwxJcPpA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcTrC0xvapr1jVo_X-fdQSA",
+            "authorChannelId": {
+              "value": "UCcTrC0xvapr1jVo_X-fdQSA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 926,
+            "publishedAt": "2021-06-03T13:41:18Z",
+            "updatedAt": "2021-06-03T13:41:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 30,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "Sng9Or0_oQmBx4Qkf1-1lTeUeck",
+            "id": "UgxxBi7TodwxdYEe7Qt4AaABAg.9O7kX1upNoV9R_Nbuw7ajq",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "I’m from the northeast and have never tried any of these recipes. I don’t think it’s a true representation of what Americans eat.",
+              "textOriginal": "I’m from the northeast and have never tried any of these recipes. I don’t think it’s a true representation of what Americans eat.",
+              "parentId": "UgxxBi7TodwxdYEe7Qt4AaABAg",
+              "authorDisplayName": "April Brandi",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQdB53Ec_23yuRmxxO2WTMyGlAJM-lp3gD3YA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCXFcePTrPJfHEdzKoSTz4Cw",
+              "authorChannelId": {
+                "value": "UCXFcePTrPJfHEdzKoSTz4Cw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-08-28T06:04:32Z",
+              "updatedAt": "2021-08-28T06:04:32Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "mm1LcOoCu9LwRJ0JmGeyxojN8TY",
+            "id": "UgxxBi7TodwxdYEe7Qt4AaABAg.9O7kX1upNoV9QVyaet-mcO",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "Nicely put. And in case you’re still wondering, tater tots are basically bite size hash browns. Little bits of potato packed together into thumb size cylinders and fried or baked until the outside is golden brown and crispy.",
+              "textOriginal": "Nicely put. And in case you’re still wondering, tater tots are basically bite size hash browns. Little bits of potato packed together into thumb size cylinders and fried or baked until the outside is golden brown and crispy.",
+              "parentId": "UgxxBi7TodwxdYEe7Qt4AaABAg",
+              "authorDisplayName": "Just Me",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT7CtsVsIJ7P0w-AN3Jg40Knc75tbByPsXQBw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCM_xwLrr8qqqIUIHv99FVHg",
+              "authorChannelId": {
+                "value": "UCM_xwLrr8qqqIUIHv99FVHg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2021-08-01T16:28:49Z",
+              "updatedAt": "2021-08-01T16:28:49Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "aDDkshDPdlLkWZS5GZjrbsYn0yA",
+            "id": "UgxxBi7TodwxdYEe7Qt4AaABAg.9O7kX1upNoV9QPH1-Mz_oT",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "I was in Iowa once at a catered conference and I wanted fresh veggies…they pointed me to a big bowl of pasta salad that had some peppers and olives sprinkled in it.",
+              "textOriginal": "I was in Iowa once at a catered conference and I wanted fresh veggies…they pointed me to a big bowl of pasta salad that had some peppers and olives sprinkled in it.",
+              "parentId": "UgxxBi7TodwxdYEe7Qt4AaABAg",
+              "authorDisplayName": "James Padilioni Jr",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR_Xhfi5jji1PPfnb7IN_KBKR6SLHHjnYQ4K2PXrQ=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCB6wS3VJ80XHoJT8Ehsvylw",
+              "authorChannelId": {
+                "value": "UCB6wS3VJ80XHoJT8Ehsvylw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-07-30T02:03:54Z",
+              "updatedAt": "2021-07-30T02:03:54Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "MdJpfXGzL7sQeQuIhzS7V6KNSZA",
+            "id": "UgxxBi7TodwxdYEe7Qt4AaABAg.9O7kX1upNoV9POmd3CB0QV",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@necromancerbb that&#39;s capitalism for ya!",
+              "textOriginal": "@necromancerbb that's capitalism for ya!",
+              "parentId": "UgxxBi7TodwxdYEe7Qt4AaABAg",
+              "authorDisplayName": "Eleison",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTA-QIpj_b1At8viowZZdRHeD2PuEp95cfSKackog=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCKpwsyHoW64OEVscFCTKoLg",
+              "authorChannelId": {
+                "value": "UCKpwsyHoW64OEVscFCTKoLg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-07-05T00:58:13Z",
+              "updatedAt": "2021-07-05T00:58:13Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "ATgd40-O3C_dEMkOYmiQRrfemGg",
+            "id": "UgxxBi7TodwxdYEe7Qt4AaABAg.9O7kX1upNoV9PMgo6P2SzG",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@Ra Pa is there such severe food scarcity even now? It boggled the mind that a proper logistics/supply chain system doesnt exist to get fresh foodstuff all around the country",
+              "textOriginal": "@Ra Pa is there such severe food scarcity even now? It boggled the mind that a proper logistics/supply chain system doesnt exist to get fresh foodstuff all around the country",
+              "parentId": "UgxxBi7TodwxdYEe7Qt4AaABAg",
+              "authorDisplayName": "necromancerbb",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTzhrIkB3jzhXlKJSXopEN1sTrFiKINoHx1fw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCA6hpL603cF8dnDLWvQqDlw",
+              "authorChannelId": {
+                "value": "UCA6hpL603cF8dnDLWvQqDlw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2021-07-04T05:28:49Z",
+              "updatedAt": "2021-07-04T05:28:49Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "tbgkajS9mdco5zLGK6sTQixqJwY",
+      "id": "UgxWOBGyUCcsa9Xd7Zp4AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Zv1XijGqgI5_sxmtOzXDM84YI7I",
+          "id": "UgxWOBGyUCcsa9Xd7Zp4AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "You&#39;re always respectful with the foods you don&#39;t love, but you give me LIFE when you take the first bite of something you do. I can see rays of light and rainbows and sheer happiness coming through your eyes and you don&#39;t even need words to describe the dish. Stay foodie, Beryl :)",
+            "textOriginal": "You're always respectful with the foods you don't love, but you give me LIFE when you take the first bite of something you do. I can see rays of light and rainbows and sheer happiness coming through your eyes and you don't even need words to describe the dish. Stay foodie, Beryl :)",
+            "authorDisplayName": "Luiz Santos",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQY6DK2MQIFKO6BZjDazYRgTNs5otx5Z7D4uLuvDRw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCCIuaruqiIlfD25b89LrHEg",
+            "authorChannelId": {
+              "value": "UCCIuaruqiIlfD25b89LrHEg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 17,
+            "publishedAt": "2021-06-04T17:50:07Z",
+            "updatedAt": "2021-06-04T17:50:07Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0FApBhi67jEiKKLilz8RUKFkGag",
+      "id": "Ugy9nhdSh-mbcyQnBMt4AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "4WENiaeCor8pl_nluWf0nvT6DJQ",
+          "id": "Ugy9nhdSh-mbcyQnBMt4AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "OMG OMG THANKS FOR INCLUDING ME!!!! I hope everyone tries ambrosia salad!!",
+            "textOriginal": "OMG OMG THANKS FOR INCLUDING ME!!!! I hope everyone tries ambrosia salad!!",
+            "authorDisplayName": "Sam Elle",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRo-OiGK6xl5oWPR8A0E5nU5Zu-hBzE2nnrdGM6=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCY-o6Ky0LF8qMxf6jeUJGwA",
+            "authorChannelId": {
+              "value": "UCY-o6Ky0LF8qMxf6jeUJGwA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 134,
+            "publishedAt": "2021-06-04T09:17:55Z",
+            "updatedAt": "2021-06-04T09:17:55Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 10,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "g0lMyiLC8bl5e3zaNE9o4NiADg8",
+            "id": "Ugy9nhdSh-mbcyQnBMt4AaABAg.9O9rAoObtTb9QnA5cOc7H4",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "My family doesn&#39;t use pudding or cool whip, they use sour cream. Helps keep the sweetness tempered.",
+              "textOriginal": "My family doesn't use pudding or cool whip, they use sour cream. Helps keep the sweetness tempered.",
+              "parentId": "Ugy9nhdSh-mbcyQnBMt4AaABAg",
+              "authorDisplayName": "Margaret Bushman",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT8MxAg-8CNcv-L4OxAXjkDptGe-viG-89p3Zy9-w=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCZq8L6CtwS8aF6cbG_pOXaw",
+              "authorChannelId": {
+                "value": "UCZq8L6CtwS8aF6cbG_pOXaw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-08-08T18:04:22Z",
+              "updatedAt": "2021-08-08T18:04:22Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "gkkV1kV_AaUGFF7f6_AL_9xxMVg",
+            "id": "Ugy9nhdSh-mbcyQnBMt4AaABAg.9O9rAoObtTb9QinJln28LT",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@rabidsamfan oOOOo shredded coconut! I must try adding that",
+              "textOriginal": "@rabidsamfan oOOOo shredded coconut! I must try adding that",
+              "parentId": "Ugy9nhdSh-mbcyQnBMt4AaABAg",
+              "authorDisplayName": "Sam Elle",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRo-OiGK6xl5oWPR8A0E5nU5Zu-hBzE2nnrdGM6=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCY-o6Ky0LF8qMxf6jeUJGwA",
+              "authorChannelId": {
+                "value": "UCY-o6Ky0LF8qMxf6jeUJGwA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-08-07T01:19:38Z",
+              "updatedAt": "2021-08-07T01:19:38Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "c8BbkNAivGzAqpEweHo0FufCSkk",
+            "id": "Ugy9nhdSh-mbcyQnBMt4AaABAg.9O9rAoObtTb9QhtSj671kN",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "My family doesn’t put in apple or pudding, but we do put in shredded coconut and Miracle Whip (just a touch.)",
+              "textOriginal": "My family doesn’t put in apple or pudding, but we do put in shredded coconut and Miracle Whip (just a touch.)",
+              "parentId": "Ugy9nhdSh-mbcyQnBMt4AaABAg",
+              "authorDisplayName": "rabidsamfan",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ2ZUN3p5606O_RrTlzuS-u0ZfM1yHm6oIHGA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCgXPxCERgL3Qr-aCn5Gq4Yw",
+              "authorChannelId": {
+                "value": "UCgXPxCERgL3Qr-aCn5Gq4Yw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-08-06T16:54:02Z",
+              "updatedAt": "2021-08-06T16:54:02Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "DEKvX7umJ37y6_gBKw7KfcD5B8I",
+            "id": "Ugy9nhdSh-mbcyQnBMt4AaABAg.9O9rAoObtTb9Q2YFsXMaD4",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@Sam Elle yass!! Loll goes to show that even within nyc there are such different cultures! I love this city so much lol",
+              "textOriginal": "@Sam Elle yass!! Loll goes to show that even within nyc there are such different cultures! I love this city so much lol",
+              "parentId": "Ugy9nhdSh-mbcyQnBMt4AaABAg",
+              "authorDisplayName": "LadyLal",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHfGbSMIXSlciCzuSpT9zUnvRZH_FZ2syrgh-p=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCTaTb_xgR8BeHtW5hXXLFUw",
+              "authorChannelId": {
+                "value": "UCTaTb_xgR8BeHtW5hXXLFUw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-07-21T06:11:57Z",
+              "updatedAt": "2021-07-21T06:11:57Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "6xzg2t9steOB4whrTvP6qKafldw",
+            "id": "Ugy9nhdSh-mbcyQnBMt4AaABAg.9O9rAoObtTb9Q1Fva9R8RK",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@M M my summer bbqs always has ambrosia and it’s so so good!!!!",
+              "textOriginal": "@M M my summer bbqs always has ambrosia and it’s so so good!!!!",
+              "parentId": "Ugy9nhdSh-mbcyQnBMt4AaABAg",
+              "authorDisplayName": "Sam Elle",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRo-OiGK6xl5oWPR8A0E5nU5Zu-hBzE2nnrdGM6=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCY-o6Ky0LF8qMxf6jeUJGwA",
+              "authorChannelId": {
+                "value": "UCY-o6Ky0LF8qMxf6jeUJGwA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2021-07-20T18:12:31Z",
+              "updatedAt": "2021-07-20T18:12:31Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "nxVgfFYsp8ydu71jNzkHFytCMso",
+      "id": "Ugw1HpRllBL5g7IGTRF4AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "WAjUATdSI8At5QKLd5cl5y3f9l8",
+          "id": "Ugw1HpRllBL5g7IGTRF4AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "My dad taught me at a very early age, just as the girl from NY said, ‘Try everything at least once. You may not like it but you can’t judge without trying it first and you may be surprised.’  One of the best pieces of advice my dad gave me. I applied that to not just food but life and it became good advice. Funny how parents turn out to be so much smarter than we think they are when we are kids hahaha. Just kidding.",
+            "textOriginal": "My dad taught me at a very early age, just as the girl from NY said, ‘Try everything at least once. You may not like it but you can’t judge without trying it first and you may be surprised.’  One of the best pieces of advice my dad gave me. I applied that to not just food but life and it became good advice. Funny how parents turn out to be so much smarter than we think they are when we are kids hahaha. Just kidding.",
+            "authorDisplayName": "Red Tankgirl",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLS8EbVecRi-CK_ODYTUmjWnsUTfDzTSe76bmvpYiw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2FHl07dggcysA2zpsLmQPQ",
+            "authorChannelId": {
+              "value": "UC2FHl07dggcysA2zpsLmQPQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 64,
+            "publishedAt": "2021-06-06T23:19:24Z",
+            "updatedAt": "2021-06-06T23:19:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "FvxAcMg9oobOmx5F1eYpd6dVkW8",
+            "id": "Ugw1HpRllBL5g7IGTRF4AaABAg.9OGW3p2P7i39Qsskjlezq4",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "Did you ever try heroin?",
+              "textOriginal": "Did you ever try heroin?",
+              "parentId": "Ugw1HpRllBL5g7IGTRF4AaABAg",
+              "authorDisplayName": "LucaFinn99LP",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRaqfSYNl4gDZavt36HSJfxXNqEJgVqMZGxEzvZ=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC-_ZKJo4u_EFLtfI3fMFTEA",
+              "authorChannelId": {
+                "value": "UC-_ZKJo4u_EFLtfI3fMFTEA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-08-10T23:19:32Z",
+              "updatedAt": "2021-08-10T23:19:32Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "EZqITcqBNt_TFqWOiPf5ON2A-OM",
+            "id": "Ugw1HpRllBL5g7IGTRF4AaABAg.9OGW3p2P7i39Pme7_dMmVV",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "Oh no, you said that out loud on the internet where parents can &quot;hear&quot; you. lol. My parents taught me that too, and it was reinforced by a kid in our school lunchroom who ate everything on his plate. He may be the only reason I tried (and love) carrot salad.",
+              "textOriginal": "Oh no, you said that out loud on the internet where parents can \"hear\" you. lol. My parents taught me that too, and it was reinforced by a kid in our school lunchroom who ate everything on his plate. He may be the only reason I tried (and love) carrot salad.",
+              "parentId": "Ugw1HpRllBL5g7IGTRF4AaABAg",
+              "authorDisplayName": "allsubstance substance",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRKMChDDkF_OTWKdHxa70LztPXyruyGeE2ovw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCUev__nQWULG8j6z_5H3snA",
+              "authorChannelId": {
+                "value": "UCUev__nQWULG8j6z_5H3snA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "moderationStatus": "likelySpam",
+              "publishedAt": "2021-07-14T16:44:53Z",
+              "updatedAt": "2021-07-14T16:44:53Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "19vXxorAJICmW1tOyi8B1OW5A2w",
+            "id": "Ugw1HpRllBL5g7IGTRF4AaABAg.9OGW3p2P7i39OY8zuL5WqG",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "My dad too! Kudos to fathers😄",
+              "textOriginal": "My dad too! Kudos to fathers😄",
+              "parentId": "Ugw1HpRllBL5g7IGTRF4AaABAg",
+              "authorDisplayName": "Garlic Girl",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTs5xay0vAynfZsXFRGg5VCHewX-1Xbhp5pWEnM=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC8Zsm95QX_Db1w6lg4iMnbw",
+              "authorChannelId": {
+                "value": "UC8Zsm95QX_Db1w6lg4iMnbw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2021-06-13T19:44:05Z",
+              "updatedAt": "2021-06-13T19:44:05Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "LcW9WZyLXjc0X29O-MqI5qbHtc4",
+      "id": "UgwTW5uiFRn63p-TEol4AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "CSDIwksHr994uuQ7dRWzA4dKsD0",
+          "id": "UgwTW5uiFRn63p-TEol4AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "Respectfully, bc ily and this video Beryl, I&#39;m excited to see another video in this series that focuses on regional american foods from non-white or non-european american communities (or commentaries about the origins of each dish)! this is a huge country with so many people so many histories, I would just love to see more.",
+            "textOriginal": "Respectfully, bc ily and this video Beryl, I'm excited to see another video in this series that focuses on regional american foods from non-white or non-european american communities (or commentaries about the origins of each dish)! this is a huge country with so many people so many histories, I would just love to see more.",
+            "authorDisplayName": "169MadHatter",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQ5KV6Yw3efERGX04ykVv5y3INwHNtdq7swGQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCO9GemtE4p0ZKmykIirhBpQ",
+            "authorChannelId": {
+              "value": "UCO9GemtE4p0ZKmykIirhBpQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 201,
+            "publishedAt": "2021-06-03T19:34:17Z",
+            "updatedAt": "2021-06-03T19:34:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 9,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "hyxwMNf9bkNRcOjeqkRQ-CeQMyI",
+            "id": "UgwTW5uiFRn63p-TEol4AaABAg.9O8NvNRxMK_9RU1PCXlXhm",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@Beryl Shereshewsky I would love you to try Black bean soup topped with sour cream and shredded cheddar, with homemade flour tortillas with butter on the side. My Grandmother is Pueblo Native American, and this dish is something that was passed down to my mother. It&#39;s really good",
+              "textOriginal": "@Beryl Shereshewsky I would love you to try Black bean soup topped with sour cream and shredded cheddar, with homemade flour tortillas with butter on the side. My Grandmother is Pueblo Native American, and this dish is something that was passed down to my mother. It's really good",
+              "parentId": "UgwTW5uiFRn63p-TEol4AaABAg",
+              "authorDisplayName": "Chiller 88884",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRo-uO4n_p6Q5JxqCkSWID07XqVTv3mV8atRj67cw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCaUjybA5ZxFt-zGPDF6tNzQ",
+              "authorChannelId": {
+                "value": "UCaUjybA5ZxFt-zGPDF6tNzQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2021-08-25T18:54:59Z",
+              "updatedAt": "2021-08-25T18:54:59Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "yaiCLehyImjuRu2Q1GscYxcFWUI",
+            "id": "UgwTW5uiFRn63p-TEol4AaABAg.9O8NvNRxMK_9QDy_AjHeRi",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@DOUG L why?",
+              "textOriginal": "@DOUG L why?",
+              "parentId": "UgwTW5uiFRn63p-TEol4AaABAg",
+              "authorDisplayName": "Jacqulin Burrell-Smart",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSCZxsKOx_YmGPWD1TGEsi0oThiuHL-6IMXoKM=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCVH6UqA_2xiu0gQGCEdO4Kg",
+              "authorChannelId": {
+                "value": "UCVH6UqA_2xiu0gQGCEdO4Kg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-07-25T16:42:17Z",
+              "updatedAt": "2021-07-25T16:42:17Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "rt8hwYfIG6ixSRVnYDofeV7WocA",
+            "id": "UgwTW5uiFRn63p-TEol4AaABAg.9O8NvNRxMK_9Q78S3YodsN",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@becca marquez This would be an awesome idea!",
+              "textOriginal": "@becca marquez This would be an awesome idea!",
+              "parentId": "UgwTW5uiFRn63p-TEol4AaABAg",
+              "authorDisplayName": "Emmett DonkeyDoodle",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRuVrf-6TvMpMPl2KwAqM2IufNXnQ3sEjgDx0pi=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCZT9ttkE6TQAKp6CoR8zPlA",
+              "authorChannelId": {
+                "value": "UCZT9ttkE6TQAKp6CoR8zPlA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-07-23T01:02:37Z",
+              "updatedAt": "2021-07-23T01:02:37Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "fCfAakgrYMfEkehQJVOFPNw1R_4",
+            "id": "UgwTW5uiFRn63p-TEol4AaABAg.9O8NvNRxMK_9PyGRC7gcz-",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@becca marquez Cuban Chinese isn’t like a thing in nyc though. There’s definitely restaurants but I wouldn’t say it’s known throughout nyc unlike jewish American (every knows what a bagel is) Italian American (everybody knows pizza and spaghetti and meatballs) Mexican American (everybody knows tacos and burritos) and General middle eastern- American (the street halal carts are very nyc). However the Jewish American and Italian American cuisines and Middle Eastern Halal carts being something that nyc is famous for. I wouldn’t say nyc is famous for its Mexican American cuisine unlike LA or TX. Of course nyc has cuisines from all over but Cuban Chinese is definitely not something specific to the nyc experience. Hope that makes sense!",
+              "textOriginal": "@becca marquez Cuban Chinese isn’t like a thing in nyc though. There’s definitely restaurants but I wouldn’t say it’s known throughout nyc unlike jewish American (every knows what a bagel is) Italian American (everybody knows pizza and spaghetti and meatballs) Mexican American (everybody knows tacos and burritos) and General middle eastern- American (the street halal carts are very nyc). However the Jewish American and Italian American cuisines and Middle Eastern Halal carts being something that nyc is famous for. I wouldn’t say nyc is famous for its Mexican American cuisine unlike LA or TX. Of course nyc has cuisines from all over but Cuban Chinese is definitely not something specific to the nyc experience. Hope that makes sense!",
+              "parentId": "UgwTW5uiFRn63p-TEol4AaABAg",
+              "authorDisplayName": "LadyLal",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTHfGbSMIXSlciCzuSpT9zUnvRZH_FZ2syrgh-p=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCTaTb_xgR8BeHtW5hXXLFUw",
+              "authorChannelId": {
+                "value": "UCTaTb_xgR8BeHtW5hXXLFUw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2021-07-19T05:00:00Z",
+              "updatedAt": "2021-07-19T05:34:30Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "oim7xbgA4iMQsn8eXM2h_39qlYU",
+            "id": "UgwTW5uiFRn63p-TEol4AaABAg.9O8NvNRxMK_9Pn2-RY3y-W",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@DOUG L why",
+              "textOriginal": "@DOUG L why",
+              "parentId": "UgwTW5uiFRn63p-TEol4AaABAg",
+              "authorDisplayName": "Nicole Now",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTvTpOS9t3cmP-94qEO-_C9lpmW3k5Gqn9dVSQt8g=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCFN6vgHRUc2vPTGahY45m7w",
+              "authorChannelId": {
+                "value": "UCFN6vgHRUc2vPTGahY45m7w"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 3,
+              "publishedAt": "2021-07-14T20:22:14Z",
+              "updatedAt": "2021-07-14T20:22:14Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "kIGJmkpk0e3c0DfWfmeddi6fD3U",
+      "id": "Ugz00zRxbeTlpLg7Rph4AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "QHZHxq4cNj4fNu8q27phVRSpqzY",
+          "id": "Ugz00zRxbeTlpLg7Rph4AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "Lovely video, as always :) \u003cbr\u003e\u003cbr\u003eI know this was about the regional differences in modern (past 100 or so years) American foods, but I think it would be really cool if you one day did an episode about the foods of the Indigenous people of America! It fascinates me that there are certain ingredients (such as dairy) that are completely omitted in most if not all Native American recipes; instead, you&#39;ll find the inclusion of things like chokeberries, which many people (including myself) know nothing about! I think the history of Native American food culture is super interesting, incredibly varied and deeply complex, sometimes in unexpected ways - just consider the controversial significance of frybread, for example. \u003cbr\u003e\u003cbr\u003eAnyway, awesome stuff, looking forward to the next one!",
+            "textOriginal": "Lovely video, as always :) \n\nI know this was about the regional differences in modern (past 100 or so years) American foods, but I think it would be really cool if you one day did an episode about the foods of the Indigenous people of America! It fascinates me that there are certain ingredients (such as dairy) that are completely omitted in most if not all Native American recipes; instead, you'll find the inclusion of things like chokeberries, which many people (including myself) know nothing about! I think the history of Native American food culture is super interesting, incredibly varied and deeply complex, sometimes in unexpected ways - just consider the controversial significance of frybread, for example. \n\nAnyway, awesome stuff, looking forward to the next one!",
+            "authorDisplayName": "Ayon Ibrahim",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRn6mkXg0NwRVBbilxGLY383486i8up6g9Uww=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCMOn76DBAR-5WTTHROd7pcA",
+            "authorChannelId": {
+              "value": "UCMOn76DBAR-5WTTHROd7pcA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 91,
+            "publishedAt": "2021-06-03T18:46:21Z",
+            "updatedAt": "2021-06-03T18:49:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "OxuvezCcQCoQ_vrixz4QyYwXOg8",
+      "id": "UgzYw9XLoZ1NDnCQxy94AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "LmZ9EPP3Z_KRxOSlITvBP8xSEqg",
+          "id": "UgzYw9XLoZ1NDnCQxy94AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "Places that have short growing seasons will rely heavily on canned, pickled and processed foods. It makes sense the American mid West and the Canadian prairies would traditionally have these types of foods. Leafy greens and nightshades take lots of water and warm weather to grow. I live on the prairies, it snowed until the end of May and there were frost warnings until June. It probably will start to get cool again in mid August. If it wasn&#39;t for food imports from California and Mexico, we wouldn&#39;t be indulging in green salad today either.",
+            "textOriginal": "Places that have short growing seasons will rely heavily on canned, pickled and processed foods. It makes sense the American mid West and the Canadian prairies would traditionally have these types of foods. Leafy greens and nightshades take lots of water and warm weather to grow. I live on the prairies, it snowed until the end of May and there were frost warnings until June. It probably will start to get cool again in mid August. If it wasn't for food imports from California and Mexico, we wouldn't be indulging in green salad today either.",
+            "authorDisplayName": "Lilly Ess",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLR_s9YsqDsbu0ZtKuvqw1Ya04ZrV7G7-tUVlw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtvSeHMUTaxrID9KwlKS-YA",
+            "authorChannelId": {
+              "value": "UCtvSeHMUTaxrID9KwlKS-YA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 71,
+            "publishedAt": "2021-06-04T23:07:40Z",
+            "updatedAt": "2021-06-04T23:07:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 4,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "-UOyEvlphZTyvkT51RbUWVUcac4",
+            "id": "UgzYw9XLoZ1NDnCQxy94AaABAg.9OBL86kL17A9QeZ90NnuGY",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "Also explains why us northerners can and pickle everything.",
+              "textOriginal": "Also explains why us northerners can and pickle everything.",
+              "parentId": "UgzYw9XLoZ1NDnCQxy94AaABAg",
+              "authorDisplayName": "Laughing Wolves 3-6-9",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSH54Gt1qVBWVwjL0eEbrhqTVsHN5VSLmSGDKpP=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCybkMws28zXS6Ig8-0RYHug",
+              "authorChannelId": {
+                "value": "UCybkMws28zXS6Ig8-0RYHug"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2021-08-05T09:50:07Z",
+              "updatedAt": "2021-08-05T09:50:07Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "vtJbWHymkgNZLP5EcBLVPlUnN9s",
+            "id": "UgzYw9XLoZ1NDnCQxy94AaABAg.9OBL86kL17A9QQyhuC872V",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "Yeah, as a Greenlander I can confirm this. I live in the north, so we mostly eat local food. I.e. meat and fish. We do import foods from other countries, mostly canned foods or things like pasta or rice, like dry ingredients. Fresh fruits and vegetables, forget them. If they have them you probably can’t afford them lol",
+              "textOriginal": "Yeah, as a Greenlander I can confirm this. I live in the north, so we mostly eat local food. I.e. meat and fish. We do import foods from other countries, mostly canned foods or things like pasta or rice, like dry ingredients. Fresh fruits and vegetables, forget them. If they have them you probably can’t afford them lol",
+              "parentId": "UgzYw9XLoZ1NDnCQxy94AaABAg",
+              "authorDisplayName": "Qaaqqutsiaq Taatsiaq",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLT1G4tP_ehKibAwMl76ifv6YA1ZCeG9OQlwPg=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCz5r2tSc6_03Qko8Hk2d41w",
+              "authorChannelId": {
+                "value": "UCz5r2tSc6_03Qko8Hk2d41w"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2021-07-30T17:53:36Z",
+              "updatedAt": "2021-07-30T17:53:36Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "t66iXBKtCqqv-fShLKJyXT8x-e4",
+            "id": "UgzYw9XLoZ1NDnCQxy94AaABAg.9OBL86kL17A9OY7wsGZUyC",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "Truth",
+              "textOriginal": "Truth",
+              "parentId": "UgzYw9XLoZ1NDnCQxy94AaABAg",
+              "authorDisplayName": "Garlic Girl",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTs5xay0vAynfZsXFRGg5VCHewX-1Xbhp5pWEnM=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC8Zsm95QX_Db1w6lg4iMnbw",
+              "authorChannelId": {
+                "value": "UC8Zsm95QX_Db1w6lg4iMnbw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-06-13T19:34:56Z",
+              "updatedAt": "2021-06-13T19:34:56Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "5KjOhNTu1MpHh9yw-HRjljJ37cM",
+            "id": "UgzYw9XLoZ1NDnCQxy94AaABAg.9OBL86kL17A9OJtwmtm5k_",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "As a youngster my family lived on a sheep station miles from town, to get greens into our diet mum would soak peas and let them them sprout then feed it to us kids on sandwiches or as a side . Now days sprouts are a trendy restaurant thing.",
+              "textOriginal": "As a youngster my family lived on a sheep station miles from town, to get greens into our diet mum would soak peas and let them them sprout then feed it to us kids on sandwiches or as a side . Now days sprouts are a trendy restaurant thing.",
+              "parentId": "UgzYw9XLoZ1NDnCQxy94AaABAg",
+              "authorDisplayName": "Harry Betteridge",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSc-srCij2yTgqg5M5qwI0PCI22t7tFep5bOQ=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCtFEZsON2epvvvh4gJUW6iA",
+              "authorChannelId": {
+                "value": "UCtFEZsON2epvvvh4gJUW6iA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 3,
+              "publishedAt": "2021-06-08T06:54:29Z",
+              "updatedAt": "2021-06-08T06:54:29Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "FVjXFBCAqXIe--NUOkM3yM_wqIg",
+      "id": "Ugxa_eysbC7M0DfMfwh4AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "P8NBzebzXiA-OKADzBZkiGcMfkM",
+          "id": "Ugxa_eysbC7M0DfMfwh4AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "“Pistachio pudding” is basically the lime dish but made with cool whip and pistachio pudding mix. Cherries are good in it too. I like it best out of that ambrosia salad family.",
+            "textOriginal": "“Pistachio pudding” is basically the lime dish but made with cool whip and pistachio pudding mix. Cherries are good in it too. I like it best out of that ambrosia salad family.",
+            "authorDisplayName": "Brit W",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQY6wZSrWNcrffaxqzpHy9wsxpAVutaU2J1ig=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCrj2A1koaYoy9ByWWS1FFQg",
+            "authorChannelId": {
+              "value": "UCrj2A1koaYoy9ByWWS1FFQg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 64,
+            "publishedAt": "2021-06-04T23:04:29Z",
+            "updatedAt": "2021-06-04T23:04:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 12,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "tTQxWGiOciUpq7BkPVt6EhviGB4",
+            "id": "Ugxa_eysbC7M0DfMfwh4AaABAg.9OBKloXhRTk9RW_kyRwb1B",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "It’s called Watergate salad lol",
+              "textOriginal": "It’s called Watergate salad lol",
+              "parentId": "Ugxa_eysbC7M0DfMfwh4AaABAg",
+              "authorDisplayName": "Diane L",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQtKXAUu8pMYLtrsYzhBGLN7Qe8NAN3XHchr8d2SA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC4owSOIgj_oOmRe6ZyR8RQA",
+              "authorChannelId": {
+                "value": "UC4owSOIgj_oOmRe6ZyR8RQA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-08-26T18:42:25Z",
+              "updatedAt": "2021-08-26T18:42:25Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "RzaQPL50SV4Bq2_tllDmMwZJLfU",
+            "id": "Ugxa_eysbC7M0DfMfwh4AaABAg.9OBKloXhRTk9RELNnApEPm",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "@sammy soppy  The cottage cheese is actually really tasty in this recipe. When I was little my mom would make a version of this but instead of the lime jello she would use orange jello and instead of the pineapple she would use mandarin oranges (canned, not fresh).  It was my favorite jello she made and it was often requested for her to bring this to potlucks and family gatherings.",
+              "textOriginal": "@sammy soppy  The cottage cheese is actually really tasty in this recipe. When I was little my mom would make a version of this but instead of the lime jello she would use orange jello and instead of the pineapple she would use mandarin oranges (canned, not fresh).  It was my favorite jello she made and it was often requested for her to bring this to potlucks and family gatherings.",
+              "parentId": "Ugxa_eysbC7M0DfMfwh4AaABAg",
+              "authorDisplayName": "Linda Myfatcatcow",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTv3xCO_TY_qGU8NjqFVJ6W_3kk8PHFmYCGVDZH=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCi_jW7BZpkB8x_Fuj95avGQ",
+              "authorChannelId": {
+                "value": "UCi_jW7BZpkB8x_Fuj95avGQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-08-19T16:41:42Z",
+              "updatedAt": "2021-08-19T16:41:42Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "2UNIKDuNlLlZtSXQUiyPMd5vhQI",
+            "id": "Ugxa_eysbC7M0DfMfwh4AaABAg.9OBKloXhRTk9R-GwvFyKZ1",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "Pistachio pudding is amazing! I just call it alien pudding because of the neon green color 😂🤣",
+              "textOriginal": "Pistachio pudding is amazing! I just call it alien pudding because of the neon green color 😂🤣",
+              "parentId": "Ugxa_eysbC7M0DfMfwh4AaABAg",
+              "authorDisplayName": "Meeka b",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTm_aWg8USRPgVCuzuVMT58yYc2jEfXu3GTgGFMpQ=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC4oeWGnVo5Yp7XnzX9F8GnQ",
+              "authorChannelId": {
+                "value": "UC4oeWGnVo5Yp7XnzX9F8GnQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2021-08-13T20:14:20Z",
+              "updatedAt": "2021-08-13T20:15:32Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "A3_sDA36AKw8zIm6WacnC1gi0nk",
+            "id": "Ugxa_eysbC7M0DfMfwh4AaABAg.9OBKloXhRTk9Q9ikTLchdD",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "We called it green stuff!",
+              "textOriginal": "We called it green stuff!",
+              "parentId": "Ugxa_eysbC7M0DfMfwh4AaABAg",
+              "authorDisplayName": "Rachel Borah",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ossqFG4u_IIrphcL_KTcvQhCokB6NZu6Ic8bAnWBAtcFi79neu6aWSTe6opMclwvf7aj3xnC0qc=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCkbK-gUUv3BvZ5oayPgrJhA",
+              "authorChannelId": {
+                "value": "UCkbK-gUUv3BvZ5oayPgrJhA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-07-24T01:07:04Z",
+              "updatedAt": "2021-07-24T01:07:04Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "4mjRxl5aGDcoH4RWy4HpDzDlhEI",
+            "id": "Ugxa_eysbC7M0DfMfwh4AaABAg.9OBKloXhRTk9PeGu6LdILi",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "My family loves pistachio oudding dessert which is essentially the strawberry sald but the bottom layer is graham cracker or a special walnut crust, the cool whip layer but use powdered sugar, sheesh!, and a thicker pistachio pudding layer, use about half the milk it calls for, and then a layer of cool whip in the top.  These are literally the only two reasons I have ever bought or tasted pistachio pudding.",
+              "textOriginal": "My family loves pistachio oudding dessert which is essentially the strawberry sald but the bottom layer is graham cracker or a special walnut crust, the cool whip layer but use powdered sugar, sheesh!, and a thicker pistachio pudding layer, use about half the milk it calls for, and then a layer of cool whip in the top.  These are literally the only two reasons I have ever bought or tasted pistachio pudding.",
+              "parentId": "Ugxa_eysbC7M0DfMfwh4AaABAg",
+              "authorDisplayName": "Stacey N",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQt2I8o8z3QZceBimoV__PkZOK_Lzwl8EKFTC1AKA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCg-SR3ErCKHVUUG2J69rcjQ",
+              "authorChannelId": {
+                "value": "UCg-SR3ErCKHVUUG2J69rcjQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2021-07-11T10:39:16Z",
+              "updatedAt": "2021-07-11T10:39:16Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "BVqIkpWrx-Fm4gKYXIGXMxTXzC0",
+      "id": "UgyK--aTn1FnnbB-okZ4AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "PKJMWrYURaOsuXp_OVQSMFY-dfs",
+          "id": "UgyK--aTn1FnnbB-okZ4AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "A quirky food that my family loves is called “Stack ‘em stuffed” and is a spicy, delicious, Frito salad. It’s like a taco salad and Hawaiian haystacks had a yummy love child. It came from my mom’s family in Michigan, and I ate it growing up in California, shared it with friends while at university in Washington state, and I now serve it to my kids in Utah!",
+            "textOriginal": "A quirky food that my family loves is called “Stack ‘em stuffed” and is a spicy, delicious, Frito salad. It’s like a taco salad and Hawaiian haystacks had a yummy love child. It came from my mom’s family in Michigan, and I ate it growing up in California, shared it with friends while at university in Washington state, and I now serve it to my kids in Utah!",
+            "authorDisplayName": "Kalyn Ustach",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSgF0FtYHZ5eiCfHY0yYHi1KhykljdOhBvjj1ms=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCV-3zUH4iPpOqiHM0IPUNpQ",
+            "authorChannelId": {
+              "value": "UCV-3zUH4iPpOqiHM0IPUNpQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2021-06-05T21:41:00Z",
+            "updatedAt": "2021-06-05T21:41:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "04oTLPfdiGnn5rsz9hWGpmovPEI",
+      "id": "UgytxB6m6lUhQdPvzRJ4AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "wOHfzd32xObbJiMvpAOgSkgTMjo",
+          "id": "UgytxB6m6lUhQdPvzRJ4AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "Just a general thing but I LOVE the way you have people talking about the dish playing over/through the footage of you making it. It’s different to “standard” cooking videos and I love being able to hear about the dishes and people’s relationships to them!",
+            "textOriginal": "Just a general thing but I LOVE the way you have people talking about the dish playing over/through the footage of you making it. It’s different to “standard” cooking videos and I love being able to hear about the dishes and people’s relationships to them!",
+            "authorDisplayName": "A Z",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLQg6qJhDCdZQbM2mJ02ZpEujoNm309_Kk58bVnr=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCZT7TWj2daZppBViVIhL3MA",
+            "authorChannelId": {
+              "value": "UCZT7TWj2daZppBViVIhL3MA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2021-06-19T05:41:11Z",
+            "updatedAt": "2021-06-19T05:41:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xF6Dy95YarbcrCLOc3Ij8i1qtbg",
+      "id": "UgyH_Zsta8BP3u69HBJ4AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Y2y4aNS05hE3OJKyDavO5xvWBTA",
+          "id": "UgyH_Zsta8BP3u69HBJ4AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "Tater tot casserole was a staple in our house growing up in Tennessee. It&#39;s basically a deconstructed cheeseburger.",
+            "textOriginal": "Tater tot casserole was a staple in our house growing up in Tennessee. It's basically a deconstructed cheeseburger.",
+            "authorDisplayName": "Damon DeFranco",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTKvLwGh24vSNnoD-EDJWKvynmMwAmrUe_7vm2VWQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC0hBQW_gXK2KmtPAkIxXwnA",
+            "authorChannelId": {
+              "value": "UC0hBQW_gXK2KmtPAkIxXwnA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 27,
+            "publishedAt": "2021-06-04T02:05:44Z",
+            "updatedAt": "2021-06-04T02:05:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "FM-FTqvX4_JBxehVJJkYOakr7Vo",
+            "id": "UgyH_Zsta8BP3u69HBJ4AaABAg.9O94iT6GuT_9OH8v_6dSGP",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "Headcannon.",
+              "textOriginal": "Headcannon.",
+              "parentId": "UgyH_Zsta8BP3u69HBJ4AaABAg",
+              "authorDisplayName": "Nerdy Goth Kat",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRmH1Z6utm9QjcSLHmIVwaqoD00fp1PmyqvQ_qf=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC8MbNzPsQkYrJBQPvkT1pbg",
+              "authorChannelId": {
+                "value": "UC8MbNzPsQkYrJBQPvkT1pbg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-06-07T05:16:24Z",
+              "updatedAt": "2021-06-07T05:16:24Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "qQDKdCGkPU-xG28a6BYsLu7Uwpk",
+      "id": "UgwMsWCr2wEPWdp2zad4AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_TgtmU6XFtvi0Bttop0vCfqscjc",
+          "id": "UgwMsWCr2wEPWdp2zad4AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "The thing about “regional dishes” in the states is that it’s really according to the exact people you got it from in that region and what era.\u003cbr\u003eWe are truly a melting pot and what is considered potato salad in the south to one region- might not be the same literally a county away much less when you consider the family origins ( Indigenous Native Americans, African Americans, Italian German, French , Irish, Scottish, etc etc)\u003cbr\u003eAlso is that a coastal city or landlocked. \u003cbr\u003eSo many factors.",
+            "textOriginal": "The thing about “regional dishes” in the states is that it’s really according to the exact people you got it from in that region and what era.\nWe are truly a melting pot and what is considered potato salad in the south to one region- might not be the same literally a county away much less when you consider the family origins ( Indigenous Native Americans, African Americans, Italian German, French , Irish, Scottish, etc etc)\nAlso is that a coastal city or landlocked. \nSo many factors.",
+            "authorDisplayName": "Kimchi Love",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTOrmhz1CoZGak2vBuZfwAdP9cqcZqPwKbQBV0=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC80yS7U4UqL0VOeovA5FrDw",
+            "authorChannelId": {
+              "value": "UC80yS7U4UqL0VOeovA5FrDw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 12,
+            "publishedAt": "2021-06-04T11:41:06Z",
+            "updatedAt": "2021-06-04T11:42:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "bYbcD8iMvVJ7rIdYgde6jLDvT2Y",
+            "id": "UgwMsWCr2wEPWdp2zad4AaABAg.9OA6ZVyHi7r9OY991JYsC-",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "A splendid comment!!! A person who gets cuisine in USA.",
+              "textOriginal": "A splendid comment!!! A person who gets cuisine in USA.",
+              "parentId": "UgwMsWCr2wEPWdp2zad4AaABAg",
+              "authorDisplayName": "Garlic Girl",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTs5xay0vAynfZsXFRGg5VCHewX-1Xbhp5pWEnM=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC8Zsm95QX_Db1w6lg4iMnbw",
+              "authorChannelId": {
+                "value": "UC8Zsm95QX_Db1w6lg4iMnbw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2021-06-13T19:45:28Z",
+              "updatedAt": "2021-06-13T19:45:28Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "mntXzeuCG3w2_pl1YhjFLW7DHO4",
+      "id": "UgyHs17eMT32xbuPuuR4AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "gYE4CE3ZpTmMkOpPHHk4uWLNK4s",
+          "id": "UgyHs17eMT32xbuPuuR4AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "Some of my favorite American foods: shrimp and grits, cornbread, and biscuits and sausage gravy :) ... oh, and hoppin&#39; john is pretty good, too.",
+            "textOriginal": "Some of my favorite American foods: shrimp and grits, cornbread, and biscuits and sausage gravy :) ... oh, and hoppin' john is pretty good, too.",
+            "authorDisplayName": "Kaitlin Cardozo",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLSgjgR25ng2AaA6Nxzp7hg7MXB-N3KZxi9ZZMNoxA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCR95Ti9XcHupleilMxJoU0w",
+            "authorChannelId": {
+              "value": "UCR95Ti9XcHupleilMxJoU0w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 40,
+            "publishedAt": "2021-06-04T00:12:02Z",
+            "updatedAt": "2021-06-04T00:18:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "k5rtwC8xCS-BD4AzKFjgLYGt_YA",
+            "id": "UgyHs17eMT32xbuPuuR4AaABAg.9O8shh8qi4R9RXsg-DIBr9",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "Shrimp and grits are a classic",
+              "textOriginal": "Shrimp and grits are a classic",
+              "parentId": "UgyHs17eMT32xbuPuuR4AaABAg",
+              "authorDisplayName": "CreoleFaerie",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTWiJSGfDuSlFgqMrKQE5SANy7HcC3Fgf5nZOKV=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UClBKMXqtvBhvbnRELG1z5GQ",
+              "authorChannelId": {
+                "value": "UClBKMXqtvBhvbnRELG1z5GQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-08-27T06:47:00Z",
+              "updatedAt": "2021-08-27T06:47:00Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "7sU3DIIxbcezfkXA900aCyvQ_Lw",
+            "id": "UgyHs17eMT32xbuPuuR4AaABAg.9O8shh8qi4R9OY8ECpfLnd",
+            "snippet": {
+              "videoId": "qy4OmeTuNQ8",
+              "textDisplay": "Cornbread!!!",
+              "textOriginal": "Cornbread!!!",
+              "parentId": "UgyHs17eMT32xbuPuuR4AaABAg",
+              "authorDisplayName": "Garlic Girl",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLTs5xay0vAynfZsXFRGg5VCHewX-1Xbhp5pWEnM=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC8Zsm95QX_Db1w6lg4iMnbw",
+              "authorChannelId": {
+                "value": "UC8Zsm95QX_Db1w6lg4iMnbw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2021-06-13T19:37:26Z",
+              "updatedAt": "2021-06-13T19:37:26Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "eIZpBe0uSndlvZaOIPG6eqPx7GM",
+      "id": "UgxRfXl9MCi-rtzmU-x4AaABAg",
+      "snippet": {
+        "videoId": "qy4OmeTuNQ8",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Uhw8QqclrmL_RnbaJ4OQmk--VUE",
+          "id": "UgxRfXl9MCi-rtzmU-x4AaABAg",
+          "snippet": {
+            "videoId": "qy4OmeTuNQ8",
+            "textDisplay": "Beryl: “I think I found a recipe that I don’t really like that much.”\u003cbr\u003e\u003cbr\u003eAlso Beryl: \u003cb\u003ekeeps eating it\u003c/b\u003e",
+            "textOriginal": "Beryl: “I think I found a recipe that I don’t really like that much.”\n\nAlso Beryl: *keeps eating it*",
+            "authorDisplayName": "PockASqueeno",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AKedOLRq7oH4cTjtd0QRMaNbTHyMXieJyCZuA-TGMgo=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCbsD7_WcMeaKNou3R5ml8lg",
+            "authorChannelId": {
+              "value": "UCbsD7_WcMeaKNou3R5ml8lg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 12,
+            "publishedAt": "2021-06-08T05:07:02Z",
+            "updatedAt": "2021-06-08T05:07:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}
