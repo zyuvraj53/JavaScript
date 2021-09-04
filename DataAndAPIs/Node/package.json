@@ -1,0 +1,16 @@
+{
+  "name": "nodepackage",
+  "version": "1.0.0",
+  "description": "This is an example for Node with Data and APIs, the data selfie app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuvraj Singh",
+  "license": "MIT",
+  "dependencies": {
+    "@yetzt/nedb": "^1.8.0",
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}

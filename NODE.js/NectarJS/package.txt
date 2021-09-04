@@ -1,0 +1,7 @@
+I have also installed ts2c globally through node, with npm -g install ts2c, 
+you can uninstall it.
+
+It is not very good, clearly as it does not understand this, and uses it as a variable 
+type, and makes structs.
+
+Whoever made it, was very bad at designing this.

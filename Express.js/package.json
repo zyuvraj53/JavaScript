@@ -1,0 +1,14 @@
+{
+  "name": "expresspackage",
+  "version": "1.0.0",
+  "description": "This is for the express.js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuvraj Singh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
