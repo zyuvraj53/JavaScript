@@ -1,0 +1,7 @@
+weather api key = 3e42d5b9cea24f04dbc62664c5b336fb
+
+website = https://home.openweathermap.org/api_keys
+
+https://api.openweathermap.org/data/2.5/weather?q=London&appid=3e42d5b9cea24f04dbc62664c5b336fb
+
+https://api.openweathermap.org/data/2.5/weather?q=London&appid=3e42d5b9cea24f04dbc62664c5b336fb
