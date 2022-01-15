@@ -1,0 +1,24 @@
+{
+  "name": "yuri_a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.7.4",
+    "canvas-sketch-cli": "^1.11.14",
+    "dat.gui": "^0.7.7",
+    "three": "^0.136.0"
+  },
+  "devDependencies": {
+    "vite": "^2.7.10"
+  }
+}
