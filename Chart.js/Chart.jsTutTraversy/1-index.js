@@ -1,7 +1,7 @@
 let myChart = document.getElementById("myChart").getContext("2d");
 
 let massPopChart = new Chart(myChart, {
-  type: "polarArea", //?bar, HorizontalBar, pie, line, doughnut, radar, polarArea
+  type: "line", //?bar, HorizontalBar, pie, line, doughnut, radar, polarArea
   data: {
     labels: labelsForCities,
     datasets: [
